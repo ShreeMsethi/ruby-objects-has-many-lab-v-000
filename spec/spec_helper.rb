@@ -1,7 +1,12 @@
-require_relative "../lib/artist.rb"
-require_relative "../lib/song.rb"
-require_relative "../lib/author.rb"
-require_relative "../lib/post.rb"
+# require_relative "../lib/artist.rb"
+# require_relative "../lib/song.rb"
+# require_relative "../lib/author.rb"
+# require_relative "../lib/post.rb"
+
+require_relative "../lib/artist_1.rb"
+require_relative "../lib/song_1.rb"
+require_relative "../lib/author_1.rb"
+require_relative "../lib/post_1.rb"
 
 # binding.pry
 
